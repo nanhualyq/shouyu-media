@@ -1,4 +1,4 @@
-# shouyu-medias
+# shouyu-media
 ![授渔](https://github.com/nanhualyq/shouyu)材料共享
 
 - 《新概念英语第一册》
