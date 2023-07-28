@@ -1,7 +1,5 @@
 # shouyu-medias
-授渔材料共享
-
-https://github.com/nanhualyq/shouyu
+![授渔](https://github.com/nanhualyq/shouyu)材料共享
 
 - 《新概念英语第一册》
   - 数据：https://raw.githubusercontent.com/nanhualyq/shouyu-medias/main/nce1.json
